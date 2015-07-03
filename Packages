@@ -1,15 +1,190 @@
-Package: com.decimation.slashes
-Version: 1.0
+Package: com.myrepospace.pw5a29ip4.aniweather1
+Version: 2.0-3
 Architecture: iphoneos-arm
-Maintainer: Decimation <decimation001@gmail.com>
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//aniweatherhk_2.0-3.deb
+Size: 1718342
+MD5sum: 701b7734e53f13aaf93ebe1624a516b7
+SHA1: 30ac831c195dc6163aab269534355c7a75d51564
+SHA256: 9bc04b612f614c502fa8bdc15ffed20ea17be77a5e3ec89432cbde656743573b
+Section: Tweaks
+Description: Animated weather on your homescreen
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/aniweather/index.html
+Name: AniWeather
+
+Package: com.myrepospace.pw5a29ip4.bluetickskiller
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//btk_1.0-2.deb
+Size: 4322
+MD5sum: f26845e2bf0cf3bacf71262d9498eed5
+SHA1: 165ea771efeb43df85c3cf0bee3f3a73184eabc8
+SHA256: 0d0d43fb51a3c8a9fecf860d21fd39bcf693cc575dd88e84c041a8b9de8d5d51
+Section: Tweaks
+Description: Disable WhatsApp double blue ticks
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/bluetickskiller/index.html
+Name: Blue Ticks Killer
+
+Package: com.myrepospace.pw5a29ip4.ios9chinesefont
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: com.bytafont.bytafont2
+Filename: debs//com.myrepospace.pw5a29ip4.ios9chinesefont_1.0-1.deb
+Size: 39740092
+MD5sum: d90776b1ece044a00577a01b67f832c7
+SHA1: fac40d3d7669f2902c7ce35fdf8f4f8dd72696aa
+SHA256: d28e3acae31c83b877a53e753ae1e9b695d9f6e98f9e231f07bbff10a4833d56
+Section: Fonts
+Description: Official iOS 9 Chinese font
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/ios9chinesefont/index.html
+Name: iOS 9 Chinese Font
+
+Package: com.myrepospace.pw5a29ip4.ios9englishfont
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: com.bytafont.bytafont2
+Filename: debs//ios9english102.deb
+Size: 21900810
+MD5sum: 37308ccc8061f739c7a6efe2c1930083
+SHA1: 9b5979d422db7b4b07eba1e8c621e29dbb2b8828
+SHA256: b87507d6575d84944669e815cdd40982f2119030bf97b80d497ef90c6ba8d437
+Section: Fonts
+Description: Official iOS 9 English font
+Author: dbk1ng
+Depiction: http://pw5a29.github.io/Depic/ios9englishfont/index.html
+Name: iOS 9 English Font
+
+Package: com.myrepospace.pw5a29ip4.whatsappdebug
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.pw5a29.whatsappdebug_0.0.1-1_iphoneos-arm.deb
+Size: 4020
+MD5sum: 07081e3f37026adad7e79e9d8d5862d3
+SHA1: 8e980cf0b99987baffbb64c1900f6bc9a7da3c00
+SHA256: f2af8a5c856f575648e1b4d2fbffe6e71a80678879d01e3b4738abfc52f2bcc4
+Section: Tweaks
+Description: Enable Beta debug menu
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/whatsappdebug/index.html
+Name: WhatsApp Debug Enable
+
+Package: com.myrepospace.pw5a29ip4.camerashutterdisabler
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: com.ericasadun.utilities
+Filename: debs//DisableCameraShutter_1.2.deb
+Size: 30826
+MD5sum: 07081e3f37026adad7e79e9d8d5862d3
+SHA1: 13df11751caa0437912742568c381bdc54491842
+SHA256: 0cd3c13eac056c2fa491d33e9a7ed3b4d47025eaafc7a69356b04dca39b69ef0
+Section: Tweaks
+Description: Disable photo shutter, video and voice memo beep
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/disablecamerashutter/index.html
+Name: Disable Photo Shutter Sound
+
+Package: com.myrepospace.pw5a29ip4.ios7betafont
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: com.bytafont.bytafont2
+Filename: debs//ios7betafont_2.0-1.deb
+Size: 12944158
+MD5sum: 8ed8c47d8a33d41a0bab3d2166516c87
+SHA1: 8a6d302ee57fc2f8e4b7684fb5d1dedbb0a93f39
+SHA256: 48b1dc0f7d33046834783e169e9a36be5fcdf7e45824aa5d9dc9549c4048e015
+Section: Fonts
+Description: Thinner font from iOS 7 beta
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/ios7betafont/index.html
+Name: iOS 7 Beta Font
+
+Package: com.myrepospace.pw5a29ip4.colorbootlogo
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
 Depends: winterboard
-Filename: debs//slashes10.deb
-Size:
-MD5sum:
-SHA1:
-SHA256:
-Section: Themes (Messages)
-Description: Vertical slashes for Messages
-Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/slashes/index.html
-Name: Slashes for Messages
+Filename: debs//ios7Bootlogo_1.0-2.deb
+Size: 61992
+MD5sum: 9235f882efc1107142ccea0068e9e4e0
+SHA1: 21cb8df437bb96ea8d9d7182a1bd206532bc1e9c
+SHA256: d0b383d714adfada6cf0d9ed04a36240698c07d4d7116eba787693e8c18d1a92
+Section: Themes
+Description: Color Apple bootlegs come with 8 themes
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/ios7bootlogo/index.html
+Name: Color Bootlogos
+
+Package: com.myrepospace.pw5a29ip4.livebatteryindicator
+Version: 2.7-2
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//LBIiOS6_2.7-2.deb
+Size: 1490776
+MD5sum: 1dc73a389f93dc0c4a65fbf6a061ca1c
+SHA1: 975e9e3f668255f16f24d6176147dbe24f4b3d66
+SHA256: 881c39f65422b04070c1597615f9956c5850760e7e2614b475fa1a035e9933a1
+Section: Tweaks
+Description: Merges battery and percentage in one circular indicator
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/lbiios6/index.html
+Name: Live Battery Indicator iOS 6
+
+Package: com.myrepospace.pw5a29ip4.livebatteryindicatorios7
+Version: 2.6-1
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: com.fortysixandtwo.alkaline
+Filename: debs//livebatteryindicatorios7_2.6-1_iphoneos-arm.deb
+Size: 1000538
+MD5sum: 7ef0155a63672630d577bb59ea77a88d
+SHA1: 519e048180802f2e305c15c6db2208a68286b612
+SHA256: d4ccd25b0058fe63f0fd523a34e440f9998d54fbfdc589845af1a5a0262cbe27
+Section: Addons (Alkaline)
+Description: Merges battery and percentage in one circular indicator
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/lbiios7/index.html
+Name: Live Battery Indicator iOS 8
+
+Package: com.myrepospace.pw5a29ip4.locationdkiller
+Version: 1.0-6
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: gawk, adv-cmds
+Filename: debs//locationd1.0-6.deb
+Size: 1530
+MD5sum: 7ba9b739bcb79f48b5483af0c7f0753a
+SHA1: 8f519f76a4950dbe9c170f2bd23900fd89057272
+SHA256: c487827e5723888c1d860491fec01d51bc5e7f241302ae22a5af0c3997f404a9
+Section: Tweaks
+Description: Autokill locationd when spikes up CPU
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/locationdkiller/index.html
+Name: locationd Killer
+
+Package: com.pw5a29.speedintensifier
+Version: 8.9-4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: debs//speedintensifier894.deb
+Size: 56610
+MD5sum: 8e4599f7d9cc26e23372ca7e1d2d5a8d
+SHA1: 90365b1106730207901f251eac6f1bca5c5f046e
+SHA256: 49646e07aced9ac4df8582c3d7a64ee8bed01a1eb1586fe9f53aa93f99489921
+Section: Tweaks
+Description: Speeds up iOS Animations
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/speedintensifier/index.html
+Name: Speed Intensifier

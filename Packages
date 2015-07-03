@@ -5,9 +5,9 @@ Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
 Filename: debs//com.decimation.slashes.deb
 Size: 4228
-MD5sum:
-SHA1:
-SHA256:
+MD5sum: 814d3d7b22e0902e00e02d8754d86f53
+SHA1: e0617ba79b25de4d797bf118ba2c51421807c69d
+SHA256: 44301ae0dd00f32e69ee555ccf4077bd42c1a0e4475fdcbbf9ce949922f9d399
 Section: Themes (Messages)
 Description: Vertical slashes for Messages.
 Author: Decimation <decimation001@gmail.com>

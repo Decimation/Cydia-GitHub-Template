@@ -31,7 +31,7 @@ Depiction: http://decimation.github.io/Depic/brackets.messages/index.html
 Name: Brackets for Messages
 
 Package: com.decimation.alm
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard

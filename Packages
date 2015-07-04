@@ -63,15 +63,15 @@ Depiction: http://decimation.github.io/Depic/rectangles.messages/index.html
 Name: Rectangles for Messages
 
 Package: com.decimation.drake
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.decimation.drake.deb
-Size: 32928
-MD5sum: 9856a34a0401d07cae07ee1956f2fddc
-SHA1: 896b2203c0beaef4700875b12e1d1565b18fa262
-SHA256: f543e4adf3b3d2284aaa86be6b893534671a39693abc521dda8c14484a33de95
+Size: 36616
+MD5sum: 80685cd962bf78288d1e3071c3addf19
+SHA1: 128d49a093340ff9f4cf3f27a7bb63e76ba25e33
+SHA256: 16c403e13da4ca9a6bcc153ccda4dfaa6496fa74d90d97452f6ddfbcb95e2831
 Section: Themes (LockGlyph)
 Description: Drake - Started From The Bottom Theme for LockGlyph.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>

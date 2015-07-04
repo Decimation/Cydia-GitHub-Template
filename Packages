@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
 Filename: debs//com.decimation.alm.deb
-Size: 28158
-MD5sum: 6067507307addda35e7fb67072d4701d 
-SHA1: 273d95c8907dcecf70735ee7144a1462f4bf88b8
-SHA256: 9543371faf5fbb485cc36f460ea026c9bb994243d3324841a01010d375078a89 
+Size: 28162
+MD5sum: 6b531407ddfd50567e994592164d82e2
+SHA1: 77b814bde507d029ef22ea910793b72feee75e33
+SHA256: 8dd181f11bc7bdfbe71489ffb6d4e3cf455c88135ae10d5866b4ad4485bc9235
 Section: Themes (Messages)
 Description: Android Lollipop Messages for iOS!
 Author: Read Stanton (Decimation) <decimation001@gmail.com>

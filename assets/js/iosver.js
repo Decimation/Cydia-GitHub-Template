@@ -1,7 +1,9 @@
+// Decimation's fork to remove emojis
+
 const VERSION_CHECK_SUPPORTED = "Your iOS version is supported!";
-const VERSION_CHECK_NEEDS_UPGRADE = "Requires at least iOS %s &#x1f615;";
-const VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s &#x1f601;";
-const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
+const VERSION_CHECK_NEEDS_UPGRADE = "Requires at least iOS %s";
+const VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s";
+const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s";
 
 (function(document) {
 	"use strict";

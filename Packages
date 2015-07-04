@@ -11,7 +11,7 @@ SHA256: 4987ed43440a4ff9c48a791bc74ffe647530216b6b0c4dce20aa50b2fcdca742
 Section: Themes (Messages)
 Description: Vertical slashes for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/slashes/index.html
+Depiction: http://decimation.github.io/Depic/slashes.messages/index.html
 Name: Slashes for Messages
 
 Package: com.decimation.brackets
@@ -27,7 +27,7 @@ SHA256: e7f2e2b9a32772d6146178ef473b30dbbdb081888849e2fa3c38c54341d60278
 Section: Themes (Messages)
 Description: Brackets for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/brackets/index.html
+Depiction: http://decimation.github.io/Depic/brackets.messages/index.html
 Name: Brackets for Messages
 
 Package: com.decimation.alm
@@ -43,7 +43,7 @@ SHA256: 9543371faf5fbb485cc36f460ea026c9bb994243d3324841a01010d375078a89
 Section: Themes (Messages)
 Description: Android Lollipop Messages for iOS!
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/alm/index.html
+Depiction: http://decimation.github.io/Depic/alm.messages/index.html
 Name: Android Lollipop Messages
 
 Package: com.decimation.rectangles
@@ -59,5 +59,21 @@ SHA256: 06f7632c939b42bdf8cc76e4e2307cde6655af55b055b86b8493fef9de655b51
 Section: Themes (Messages)
 Description: Rectangles for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/rectangles/index.html
+Depiction: http://decimation.github.io/Depic/rectangles.messages/index.html
 Name: Rectangles for Messages
+
+Package: com.decimation.drake
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.decimation.drake.deb
+Size: 32928
+MD5sum: 9856a34a0401d07cae07ee1956f2fddc
+SHA1: 896b2203c0beaef4700875b12e1d1565b18fa262
+SHA256: f543e4adf3b3d2284aaa86be6b893534671a39693abc521dda8c14484a33de95
+Section: Themes (LockGlyph)
+Description: Drake - Started From The Bottom Theme for LockGlyph.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/Depic/drake.lockglyph/index.html
+Name: Drake LockGlyph

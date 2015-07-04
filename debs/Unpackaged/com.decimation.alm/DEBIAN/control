@@ -1,0 +1,10 @@
+Package: com.decimation.alm
+Name: Android Lollipop for Messages
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Android Lollipop Messages for iOS!
+Homepage: www.reddit.com/u/_Decimation
+Depends: winterboard
+Section: Themes (Messages)
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

@@ -11,7 +11,7 @@ SHA256: 4987ed43440a4ff9c48a791bc74ffe647530216b6b0c4dce20aa50b2fcdca742
 Section: Themes (Messages)
 Description: Vertical slashes for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/slashes.messages/index.html
+Depiction: http://decimation.github.io/Depic/com.decimation.slashes/index.html
 Name: Slashes for Messages
 
 Package: com.decimation.brackets
@@ -27,7 +27,7 @@ SHA256: e7f2e2b9a32772d6146178ef473b30dbbdb081888849e2fa3c38c54341d60278
 Section: Themes (Messages)
 Description: Brackets for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/brackets.messages/index.html
+Depiction: http://decimation.github.io/Depic/com.decimation.brackets/index.html
 Name: Brackets for Messages
 
 Package: com.decimation.alm
@@ -43,7 +43,7 @@ SHA256: 8dd181f11bc7bdfbe71489ffb6d4e3cf455c88135ae10d5866b4ad4485bc9235
 Section: Themes (Messages)
 Description: Android Lollipop Messages for iOS!
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/alm.messages/index.html
+Depiction: http://decimation.github.io/Depic/com.decimation.alm/index.html
 Name: Android Lollipop Messages
 
 Package: com.decimation.rectangles
@@ -59,7 +59,7 @@ SHA256: 06f7632c939b42bdf8cc76e4e2307cde6655af55b055b86b8493fef9de655b51
 Section: Themes (Messages)
 Description: Rectangles for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/rectangles.messages/index.html
+Depiction: http://decimation.github.io/Depic/com.decimation.rectangles/index.html
 Name: Rectangles for Messages
 
 Package: com.decimation.drake
@@ -75,5 +75,5 @@ SHA256: 16c403e13da4ca9a6bcc153ccda4dfaa6496fa74d90d97452f6ddfbcb95e2831
 Section: Themes (LockGlyph)
 Description: Drake - Started From The Bottom Theme for LockGlyph.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/drake.lockglyph/index.html
+Depiction: http://decimation.github.io/Depic/com.decimation.drake/index.html
 Name: Drake LockGlyph

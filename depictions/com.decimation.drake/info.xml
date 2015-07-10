@@ -1,0 +1,33 @@
+<package>
+	<id>com.decimation.drake</id>
+	<name>Full Package</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.evilgoldfish.lockglyph</package>
+		<package>winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Drake - Started From The Bottom LockGlyph theme.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>drake.PNG</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>None</name>
+			<url>http://niceme.me</url>
+		</link>
+	</links>
+</package>

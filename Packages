@@ -27,7 +27,7 @@ SHA256: e7f2e2b9a32772d6146178ef473b30dbbdb081888849e2fa3c38c54341d60278
 Section: Themes (Messages)
 Description: Brackets for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/com.decimation.brackets/index.html
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.brackets
 Name: Brackets for Messages
 
 Package: com.decimation.alm
@@ -43,7 +43,7 @@ SHA256: 8dd181f11bc7bdfbe71489ffb6d4e3cf455c88135ae10d5866b4ad4485bc9235
 Section: Themes (Messages)
 Description: Android Lollipop Messages for iOS!
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/com.decimation.alm/index.html
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.alm
 Name: Android Lollipop Messages
 
 Package: com.decimation.rectangles
@@ -59,7 +59,7 @@ SHA256: 06f7632c939b42bdf8cc76e4e2307cde6655af55b055b86b8493fef9de655b51
 Section: Themes (Messages)
 Description: Rectangles for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/depictions/com.decimation.rectangles/index.html?p=com.decimation.rectangles
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.rectangles
 Name: Rectangles for Messages
 
 Package: com.decimation.drake

@@ -1,0 +1,34 @@
+<package>
+	<id>com.decimation.brackets</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.chewitt.mc</package>
+		<package>winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Bracket styled Message bubbles.</description>
+		<description>Enable bubble outlines in Messages Customiser for full effect.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>With bubble outlines enabled in MC</description>
+			<image>brackets.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/iosthemes WIP thread</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/3c2ex1/wip_brackets_for_messages/</url>
+		</link>
+	</links>
+</package>

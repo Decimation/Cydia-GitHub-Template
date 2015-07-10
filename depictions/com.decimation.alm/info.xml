@@ -1,0 +1,36 @@
+<package>
+	<id>com.decimation.alm</id>
+	<name>Full Package</name>
+	<version>1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.chewitt.mc</package>
+		<package>winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Android Lollipop styled Message bubbles.</description>
+		<description>Looks best with Android/Google Messenger colors.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>As close as I could replicate it.</description>
+			<image>alm.PNG</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Updated version from MMI.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/iosthemes Release thread</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/30iwsg/release_android_lollipop_messages/</url>
+			<name>Replication tutorial</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/3a79jg/tutorial_how_to_exactly_replicate_android/</url>
+		</link>
+	</links>
+</package>

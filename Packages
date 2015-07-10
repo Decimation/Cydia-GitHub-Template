@@ -11,7 +11,7 @@ SHA256: 4987ed43440a4ff9c48a791bc74ffe647530216b6b0c4dce20aa50b2fcdca742
 Section: Themes (Messages)
 Description: Vertical slashes for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/com.decimation.slashes/index.html
+Depiction: http://decimation.github.io/depictions/index.html
 Name: Slashes for Messages
 
 Package: com.decimation.brackets

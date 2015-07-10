@@ -14,12 +14,7 @@
 	</dependencies>
 	<descriptionlist>
 		<description>Vertical slashes for Messages.</description>
-		<description>It has more description lines. Test</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>Enable bubble outlines in Messages Customiser.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -32,8 +27,10 @@
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>/r/iosthemes WIP thread</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/3bwq5q/wip_slashes_for_messages/</url>
+			<name>/r/iosthemes Release thread</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/3byelf/release_slashes_for_messages/</url
 		</link>
 	</links>
 </package>

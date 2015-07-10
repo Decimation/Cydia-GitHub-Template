@@ -59,7 +59,7 @@ SHA256: 06f7632c939b42bdf8cc76e4e2307cde6655af55b055b86b8493fef9de655b51
 Section: Themes (Messages)
 Description: Rectangles for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/Depic/com.decimation.rectangles/index.html
+Depiction: http://decimation.github.io/depictions/com.decimation.rectangles/index.html?p=com.decimation.rectangles
 Name: Rectangles for Messages
 
 Package: com.decimation.drake

@@ -1,0 +1,10 @@
+Package: com.decimation.revealnc
+Name: RevealNC
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Revealing animation for the NC
+Homepage: www.reddit.com/u/_Decimation
+Depends: mobilesubstrate
+Section: Tweaks
+Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

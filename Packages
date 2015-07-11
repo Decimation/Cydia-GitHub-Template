@@ -77,3 +77,19 @@ Description: Drake - Started From The Bottom Theme for LockGlyph.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.drake
 Name: Drake LockGlyph
+
+Package: com.decimation.revealnc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.decimation.revealnc.deb
+Size: 4162
+MD5sum: 36C38011A98FE267BAC21CD6C3A52CB3
+SHA1: B93C0B411C041BBCCD6621B592B88A9C465D1A0F
+SHA256: 41CCB5FDBBD72EF06D5FC83F8800DB117DF115DAC082774E79FF372C0EF5CF7D
+Section: Tweaks
+Description: Android-like reveal animation for the NC.
+Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.revealnc
+Name: RevealNC

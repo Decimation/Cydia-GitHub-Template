@@ -85,9 +85,9 @@ Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//com.decimation.revealnc.deb
 Size: 4162
-MD5sum: 36C38011A98FE267BAC21CD6C3A52CB3
-SHA1: B93C0B411C041BBCCD6621B592B88A9C465D1A0F
-SHA256: 41CCB5FDBBD72EF06D5FC83F8800DB117DF115DAC082774E79FF372C0EF5CF7D
+MD5sum: 36c38011a98fe267bac21cd6c3a52cb3
+SHA1: b93c0b411c041bbccd6621b592b88a9c465d1a0f
+SHA256: 41ccb5fdbbd72ef06d5fc83f8800db117df115dac082774e79ff372c0ef5cf7d
 Section: Tweaks
 Description: Android-like reveal animation for the NC.
 Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>

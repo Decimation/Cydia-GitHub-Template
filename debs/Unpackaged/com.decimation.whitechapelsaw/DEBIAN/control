@@ -1,0 +1,10 @@
+Package: com.decimation.whitechapelsaw
+Name: Whitechapel Saw LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Whitechapel Saw LockGlyph Theme
+Homepage: www.reddit.com/u/_Decimation
+Depends: com.evilgoldfish.lockglyph
+Section: Themes (LockGlyph)
+Author: iReaperrr
+Maintainer: Decimation <decimation001@gmail.com>

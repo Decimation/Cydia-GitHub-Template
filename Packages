@@ -125,3 +125,35 @@ Description: PosthardcoreRU LockGlyph Theme
 Author: iReaperrr
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.posthardcoreru
 Name: PosthardcoreRU LockGlyph Theme
+
+Package: com.decimation.theghostinside
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.decimation.theghostinside.deb
+Size: 25930
+MD5sum: 3fdb79c74f06dc6e60f04a41ff2e2bda
+SHA1: 72b5fad41cd16964a485cbce135b7296b4e6291c
+SHA256: 468f45aded656f451de34c4e8f87817552d972667dcc43e3f931207519e27dab
+Section: Themes (LockGlyph)
+Description: The Ghost Inside LockGlyph Theme
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.theghostinside
+Name: The Ghost Inside LockGlyph Theme
+
+Package: com.decimation.whitechapelsaw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.decimation.whitechapelsaw.deb
+Size: 59270
+MD5sum: 214e0f7107734b7bef8d4e9ff506c346
+SHA1: f07820f0eb639cfa7a589bf6a236fd2d947f1536
+SHA256: a98bdb74811e59254bc276d4f9ab13809f57d59d78e5ee61d1a16599c92b3812
+Section: Themes (LockGlyph)
+Description: Whitechapel Saw LockGlyph Theme
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.whitechapelsaw
+Name: Whitechapel Saw LockGlyph Theme

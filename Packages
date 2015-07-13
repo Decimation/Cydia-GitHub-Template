@@ -76,7 +76,7 @@ Section: Themes (LockGlyph)
 Description: Drake - Started From The Bottom Theme for LockGlyph.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.drake
-Name: Drake LockGlyph
+Name: Drake LockGlyph Theme
 
 Package: com.decimation.revealnc
 Version: 1.0
@@ -93,3 +93,19 @@ Description: Android-like reveal animation for the NC.
 Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.revealnc
 Name: RevealNC
+
+Package: com.decimation.kingdomofgiants
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.decimation.kingdomofgiants.deb
+Size: 90840
+MD5sum: 1925be90ef2c52510f20e7eeb9684bdd
+SHA1: 9b94dcac5f326eb9f922917696a49f203c4ce766
+SHA256: cac63cacd88173d7fe246b645fba376866041bbfcec7b6114893ac708087dcc3
+Section: Themes (LockGlyph)
+Description: Kingdom of Giants LockGlyph Theme
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.kingdomofgiants
+Name: Kingdom of Giants LockGlyph Theme

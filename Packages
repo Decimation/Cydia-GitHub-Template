@@ -109,3 +109,19 @@ Description: Kingdom of Giants LockGlyph Theme
 Author: iReaperrr
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.kingdomofgiants
 Name: Kingdom of Giants LockGlyph Theme
+
+Package: com.decimation.posthardcoreru
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.decimation.posthardcoreru.deb
+Size: 62646
+MD5sum: 2162f85c96baf3957e4a1aafd8419460
+SHA1: d75a0d104a65c9f5593d7e2aae7ebf6e64443c9f
+SHA256: ec7d01d7032cde7648ac9a29f4f27f4eb8bac6418a224e6a042683f9f4b0b317
+Section: Themes (LockGlyph)
+Description: PosthardcoreRU LockGlyph Theme
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.posthardcoreru
+Name: PosthardcoreRU LockGlyph Theme

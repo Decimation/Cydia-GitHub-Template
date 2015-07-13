@@ -1,0 +1,10 @@
+Package: com.decimation.posthardcoreru
+Name: Post HardcoreRU LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Post HarcoreRU LockGlyph Theme
+Homepage: www.reddit.com/u/_Decimation
+Depends: com.evilgoldfish.lockglyph
+Section: Themes (LockGlyph)
+Author: iReaperrr
+Maintainer: Decimation <decimation001@gmail.com>

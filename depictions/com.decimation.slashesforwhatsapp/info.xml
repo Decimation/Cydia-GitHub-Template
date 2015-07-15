@@ -1,0 +1,33 @@
+<package>
+	<id>com.decimation.slashesforwhatsapp</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Slashes Messages theme for WhatsApp.</description>
+		<description>Enable in Winterboard.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>WhatsApp with Slashes</description>
+			<image>slashesforwhatsapp.PNG</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+		</link>
+	</links>
+</package>

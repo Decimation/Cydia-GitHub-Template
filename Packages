@@ -157,3 +157,51 @@ Description: Whitechapel Saw LockGlyph Theme
 Author: iReaperrr
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.whitechapelsaw
 Name: Whitechapel Saw LockGlyph Theme
+
+Package: com.decimation.slashesforwhatsapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//com.decimation.slashesforwhatsapp.deb
+Size: 3976
+MD5sum: 96a66b1c7c47c471d1c97e1ce970c49d 
+SHA1: ab2ecc63d0b7d256441e3287e6d8ef4f3da21f1f
+SHA256: f98b941f912e4781c1412ba6b61dd439a5a6b411e42980ab48e35090ecdb2358
+Section: Themes (WhatsApp)
+Description: Slashes Messages theme for WhatsApp.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.slashesforwhatsapp
+Name: Slashes for WhatsApp
+
+Package: com.decimation.iosbubblesforwhatsapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//com.decimation.iosbubblesforwhatsapp.deb
+Size: 5170
+MD5sum: adaf1b75d532dac7dd9bc86ae1fca641
+SHA1: 594c0449e7cf3264ed128266f96292de240f4ce8
+SHA256: 9b0e64eb035ca2ec3569d087d0a0cdad14c70a13896362e7fec85b7c7b61e018
+Section: Themes (WhatsApp)
+Description: iOS Messages bubbles theme for WhatsApp.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.iosbubblesforwhatsapp
+Name: iOS Bubbles for WhatsApp
+
+Package: com.decimation.saberforwhatsapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//com.decimation.saberforwhatsapp.deb
+Size: 4116
+MD5sum: 7cf8aafcb65d8df564e783f5d69b57f5 
+SHA1: a1d52efa111da3995f5cc1d57962cc652e16f4f6
+SHA256: e44ecc07a37bbd4647a40593a12ec5b232d9ae18221fee0829fdff95a24bfc0f 
+Section: Themes (WhatsApp)
+Description: Saber Messages theme for WhatsApp.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.iosbubblesforwhatsapp
+Name: Saber for WhatsApp

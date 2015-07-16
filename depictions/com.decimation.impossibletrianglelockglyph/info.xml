@@ -1,0 +1,33 @@
+<package>
+	<id>com.decimation.impossibletrianglelockglyph</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.evilgoldfish.impossibletrianglelockglyph</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Impossible triangle LockGlyph.</description>
+		<description>Enable in LockGlyph.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>With 0 alpha (a) in LockGlyph</description>
+			<image>impossibletrianglelockglyph.PNG</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+		</link>
+	</links>
+</package>

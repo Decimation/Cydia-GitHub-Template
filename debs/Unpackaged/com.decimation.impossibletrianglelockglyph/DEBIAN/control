@@ -1,0 +1,10 @@
+Package: com.decimation.impossibletrianglelockglyph
+Name: Impossible Triangle LockGlyph
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Impossible triangle LockGlyph theme.
+Homepage: www.reddit.com/u/_Decimation
+Depends: com.evilgoldfish.lockglyph
+Section: Themes (LockGlyph)
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

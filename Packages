@@ -205,3 +205,35 @@ Description: Saber Messages theme for WhatsApp.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.saberforwhatsapp
 Name: Saber for WhatsApp
+
+Package: com.decimation.impossibletrianglelockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.decimation.impossibletrianglelockglyph.deb
+Size: 11300
+MD5sum: 48f1baa878f54c77effbc4af218d65a3
+SHA1: 4aa6db471fc17509c9f7c8a7f19930717b6c12b6
+SHA256: bc360e1b82213cb04271dee274405152b995022da3ec2fd327f901676c8a1dc2
+Section: Themes (LockGlyph)
+Description: Impossible triangle LockGlyph theme
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.impossibletrianglelockglyph
+Name: Impossible Triangle LockGlyph Theme
+
+Package: com.decimation.vulturebootlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//bootlogos/com.decimation.vulturebootlogo.deb
+Size: 228286
+MD5sum: 2a8bf66c726033050e80a9dfa24a3ad7
+SHA1: 35d5cdeb2cd089bf29fcea5a26417ab6fa043ec7
+SHA256: 5e9f48ab3670774a5e34c06c8d2e8ad474b7a9da5fad07e1e3ac761e96652f02
+Section: Themes (Boot Logos)
+Description: Vulture boot logo.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.vulturebootlogo
+Name: Vulture Boot Logo

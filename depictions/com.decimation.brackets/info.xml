@@ -29,12 +29,17 @@
 		<link>
 			<name>Reddit</name>
 			<url>https://www.reddit.com/u/_Decimation</url>
-			
+		</link>
+		
+		<link>
 			<name>Twitter</name>
 			<url>https://twitter.com/dec1mati0n</url>
-			
+		</link>
+		
+		<link>
 			<name>/r/iosthemes WIP thread</name>
 			<url>https://www.reddit.com/r/iOSthemes/comments/3c2ex1/wip_brackets_for_messages/</url>
 		</link>
+		
 	</links>
 </package>

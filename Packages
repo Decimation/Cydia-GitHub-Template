@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//com.decimation.slashes.deb
+Filename: debs//messages/com.decimation.slashes.deb
 Size: 4358
 MD5sum: 0b0805cc75d1aed56fb18a719548dfd9
 SHA1: 1636c56e72d050076ee893db4bd949bb6dc15aa2
@@ -19,7 +19,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//com.decimation.brackets.deb
+Filename: debs//messages/com.decimation.brackets.deb
 Size: 4468
 MD5sum: 8e2a64f2d9e90939816d81723b1c1186
 SHA1: 29ea55f7c1f0bff5229bc2ad6a4d4929154b9b00
@@ -35,7 +35,7 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//com.decimation.alm.deb
+Filename: debs//messages/com.decimation.alm.deb
 Size: 28162
 MD5sum: 6b531407ddfd50567e994592164d82e2
 SHA1: 77b814bde507d029ef22ea910793b72feee75e33
@@ -51,7 +51,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//com.decimation.rectangles.deb
+Filename: debs//messages/com.decimation.rectangles.deb
 Size: 3972
 MD5sum: 7208651eacab4636f026d8cadbb127c1
 SHA1: 1af413c85cf767e5feeacc6bd98c58f9432e75fe
@@ -67,7 +67,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.decimation.drake.deb
+Filename: debs//lockglyphs/com.decimation.drake.deb
 Size: 36616
 MD5sum: 80685cd962bf78288d1e3071c3addf19
 SHA1: 128d49a093340ff9f4cf3f27a7bb63e76ba25e33
@@ -83,7 +83,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//com.decimation.revealnc.deb
+Filename: debs//tweaks/com.decimation.revealnc.deb
 Size: 4162
 MD5sum: 36c38011a98fe267bac21cd6c3a52cb3
 SHA1: b93c0b411c041bbccd6621b592b88a9c465d1a0f
@@ -99,7 +99,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.decimation.kingdomofgiants.deb
+Filename: debs//lockglyphs/com.decimation.kingdomofgiants.deb
 Size: 90840
 MD5sum: 1925be90ef2c52510f20e7eeb9684bdd
 SHA1: 9b94dcac5f326eb9f922917696a49f203c4ce766
@@ -115,7 +115,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.decimation.posthardcoreru.deb
+Filename: debs//lockglyphs/com.decimation.posthardcoreru.deb
 Size: 62646
 MD5sum: 2162f85c96baf3957e4a1aafd8419460
 SHA1: d75a0d104a65c9f5593d7e2aae7ebf6e64443c9f
@@ -131,7 +131,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.decimation.theghostinside.deb
+Filename: debs//lockglyphs/com.decimation.theghostinside.deb
 Size: 25930
 MD5sum: 3fdb79c74f06dc6e60f04a41ff2e2bda
 SHA1: 72b5fad41cd16964a485cbce135b7296b4e6291c
@@ -147,7 +147,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.decimation.whitechapelsaw.deb
+Filename: debs//lockglyphs/com.decimation.whitechapelsaw.deb
 Size: 59270
 MD5sum: 214e0f7107734b7bef8d4e9ff506c346
 SHA1: f07820f0eb639cfa7a589bf6a236fd2d947f1536
@@ -163,7 +163,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//com.decimation.slashesforwhatsapp.deb
+Filename: debs//whatsapp/com.decimation.slashesforwhatsapp.deb
 Size: 3976
 MD5sum: 96a66b1c7c47c471d1c97e1ce970c49d 
 SHA1: ab2ecc63d0b7d256441e3287e6d8ef4f3da21f1f
@@ -179,7 +179,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//com.decimation.iosbubblesforwhatsapp.deb
+Filename: debs//whatsapp/com.decimation.iosbubblesforwhatsapp.deb
 Size: 5170
 MD5sum: adaf1b75d532dac7dd9bc86ae1fca641
 SHA1: 594c0449e7cf3264ed128266f96292de240f4ce8
@@ -195,7 +195,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//com.decimation.saberforwhatsapp.deb
+Filename: debs//whatsapp/com.decimation.saberforwhatsapp.deb
 Size: 4116
 MD5sum: 7cf8aafcb65d8df564e783f5d69b57f5 
 SHA1: a1d52efa111da3995f5cc1d57962cc652e16f4f6
@@ -211,7 +211,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.decimation.impossibletrianglelockglyph.deb
+Filename: debs//lockglyphs/com.decimation.impossibletrianglelockglyph.deb
 Size: 11300
 MD5sum: 48f1baa878f54c77effbc4af218d65a3
 SHA1: 4aa6db471fc17509c9f7c8a7f19930717b6c12b6
@@ -234,6 +234,54 @@ SHA1: 35d5cdeb2cd089bf29fcea5a26417ab6fa043ec7
 SHA256: 5e9f48ab3670774a5e34c06c8d2e8ad474b7a9da5fad07e1e3ac761e96652f02
 Section: Themes (Boot Logos)
 Description: Vulture boot logo.
-Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Author: iReaperrr
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.vulturebootlogo
 Name: Vulture Boot Logo
+
+Package: com.decimation.posthardcorerubootlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//bootlogos/com.decimation.posthardcorerubootlogo.deb
+Size: 312888
+MD5sum: 0e548b18f09e9e3030acdc977ef20ba5
+SHA1: 873fdf47371b646284fa632affd17150fbd30547
+SHA256: 78ccfe460b0b02ab003d6c9b3b1314e02b3676bc4a16ce931f144a7b6bc2c32d
+Section: Themes (Boot Logos)
+Description: PosthardcoreRU boot logo.
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.posthardcorerubootlogo
+Name: PosthardcoreRU Boot Logo
+
+Package: com.decimation.hundredthkeybootlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//bootlogos/com.decimation.hundredthkeybootlogo.deb
+Size: 170640
+MD5sum: c6ad246d68acb98299fe5d7292021633
+SHA1: 9df8fc80bd48d4f3d7b06bbd650e1bd37aa9fe12
+SHA256: c0b96fc85699ce7da546bcef3f6a14b5fed7fedd9cacddb114e4ef87da7a8bfe
+Section: Themes (Boot Logos)
+Description: Hundredth key boot logo.
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.hundredthkeybootlogo
+Name: Hundredth Key Boot Logo
+
+Package: com.decimation.denihilistbootlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//bootlogos/com.decimation.denihilistbootlogo.deb
+Size: 432646
+MD5sum: ae0390481cfbf34c048e214e19ce78d2
+SHA1: bfce9532bef8a659fdd7b59b018b035e2ae6849d
+SHA256: f6ce9698ddd923af19dfbc01dec4a5cb4e53cac05dcca44bf40749c2d0b104e5
+Section: Themes (Boot Logos)
+Description: Denihilist boot logo.
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.denihilistbootlogo
+Name: Denihilist Boot Logo

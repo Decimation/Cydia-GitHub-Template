@@ -27,8 +27,15 @@
 	</changelog>
 	<links>
 		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+			
+			<name>Twitter</name>
+			<url>https://twitter.com/dec1mati0n</url>
+			
 			<name>/r/iosthemes Release thread</name>
 			<url>https://www.reddit.com/r/iOSthemes/comments/30iwsg/release_android_lollipop_messages/</url>
+			
 			<name>Replication tutorial</name>
 			<url>https://www.reddit.com/r/iOSthemes/comments/3a79jg/tutorial_how_to_exactly_replicate_android/</url>
 		</link>

@@ -1,5 +1,5 @@
 <package>
-	<id>com.decimation.kingdomofgiants</id>
+	<id>com.decimation.posthardcorerubootlogo</id>
 	<name>Full Package</name>
 	<version>1.0</version>
 	<compatibility>
@@ -9,15 +9,15 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>com.evilgoldfish.lockglyph</package>
+		<package>winterboard</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Kingdom of Giants LockGlyph theme.</description>
+		<description>PosthardcoreRU boot logo.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Screenshot</description>
-			<image>kingdomofgiants.png</image>
+			<description>None</description>
+			<image></image>
 		</screenshot>			
 	</screenshots>
 	<changelog>

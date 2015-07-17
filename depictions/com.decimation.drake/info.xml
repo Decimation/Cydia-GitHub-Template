@@ -26,8 +26,11 @@
 	</changelog>
 	<links>
 		<link>
-			<name>None</name>
-			<url>http://niceme.me</url>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+			
+			<name>Twitter</name>
+			<url>https://twitter.com/dec1mati0n</url>
 		</link>
 	</links>
 </package>

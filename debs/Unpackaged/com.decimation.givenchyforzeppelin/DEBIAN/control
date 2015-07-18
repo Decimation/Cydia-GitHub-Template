@@ -1,0 +1,10 @@
+Package: com.decimation.givenchyforzeppelin
+Name: Givenchy for Zeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Givenchy Zeppelin theme.
+Homepage: www.reddit.com/u/_Decimation
+Depends: winterboard
+Section: Themes (WhatsApp)
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

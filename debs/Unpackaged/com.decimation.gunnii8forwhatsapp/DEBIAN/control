@@ -1,0 +1,10 @@
+Package: com.decimation.gunnii8forwhatsapp
+Name: Gunnii-8 for WhatsApp
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gunnii-8 Messages theme for WhatsApp. I do not own Gunnii-8.
+Homepage: www.reddit.com/u/_Decimation
+Depends: winterboard
+Section: Themes (WhatsApp)
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

@@ -285,3 +285,35 @@ Description: Denihilist boot logo.
 Author: iReaperrr
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.denihilistbootlogo
 Name: Denihilist Boot Logo
+
+Package: com.decimation.gunnii8forwhatsapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//whatsapp/com.decimation.gunnii8forwhatsapp.deb
+Size: 5438
+MD5sum: 4c963ff4c08fe7bf9f18fa5c1728d1fe
+SHA1: 115e8807b62b15c4f3e6d17bdc5833f6c79253b2
+SHA256: 97c68937acab90dece5b4f40ad0b3003d24eb182bf46b4907f816390eaeb13a7
+Section: Themes (WhatsApp)
+Description: Gunnii-8 Messages theme for WhatsApp. I do not own Gunnii-8.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.gunnii8forwhatsapp
+Name: Gunnii-8 for WhatsApp
+
+Package: com.decimation.givenchyforzeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//zeppelin/com.decimation.givenchyforzeppelin.deb
+Size: 8728
+MD5sum: 6900e14ceca9cf2ce9c1e4a198e2d94e
+SHA1: 4a924bd00723ef8b528c7c1aea38cbef8bb92d9b
+SHA256: 7500126c999f578fe80489f1cc961fb6777840eb32070fffc5dc87471b0f27fb
+Section: Themes (Zeppelin)
+Description: Givenchy theme for Zeppelin
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.givenchyforzeppelin
+Name: Givenchy for Zeppelin

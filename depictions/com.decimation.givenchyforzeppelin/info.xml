@@ -1,5 +1,5 @@
 <package>
-	<id>com.decimation.rectangles</id>
+	<id>com.decimation.givenchyforzeppelin</id>
 	<name>Full Package</name>
 	<version>1.0</version>
 	<compatibility>
@@ -9,17 +9,16 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>com.chewitt.mc</package>
 		<package>winterboard</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Rectangle bubbles for Messages. Looks best with flat bubble edges enabled.</description>
-		<description>Requested by /u/igotmoveslikejagger</description>
+		<description>Givenchy theme for Zeppelin.</description>
+		<description>Requested by /u/JalenM</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Rectangles with MC (this is Rectangles, not Brackets)</description>
-			<image>rectangles.jpg</image>
+			<description>Zeppelin theme</description>
+			<image>givenchyforzeppelin.jpg</image>
 		</screenshot>			
 	</screenshots>
 	<changelog>

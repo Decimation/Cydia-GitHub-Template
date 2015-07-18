@@ -1,5 +1,5 @@
 <package>
-	<id>com.decimation.rectangles</id>
+	<id>com.decimation.gunnii8forwhatsapp</id>
 	<name>Full Package</name>
 	<version>1.0</version>
 	<compatibility>
@@ -9,17 +9,16 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>com.chewitt.mc</package>
 		<package>winterboard</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Rectangle bubbles for Messages. Looks best with flat bubble edges enabled.</description>
-		<description>Requested by /u/igotmoveslikejagger</description>
+		<description>Gunnii-8 Messages theme for WhatsApp. I do not own Gunnii-8.</description>
+		<description>Enable in Winterboard.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Rectangles with MC (this is Rectangles, not Brackets)</description>
-			<image>rectangles.jpg</image>
+			<description>WhatsApp with Gunnii-8</description>
+			<image>gunnii8forwhatsapp.jpg</image>
 		</screenshot>			
 	</screenshots>
 	<changelog>
@@ -34,6 +33,11 @@
 		<link>
 			<name>Twitter</name>
 			<url>https://twitter.com/dec1mati0n</url>
+		</link>
+		
+		<link>
+			<name>/r/iosthemes WIP Thread</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/3dpcyl/wip_gunnii8_messages_for_whatsapp/</url>
 		</link>
 	</links>
 </package>

@@ -323,7 +323,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//statusbar/com.decimation.lowerlte
+Filename: debs//statusbar/com.decimation.lowerlte.deb
 Size: 4484
 MD5sum: e188bdbba183f49e39fff2ef3d551de9
 SHA1: 7cec90521d26e5999b1e529e4b04619bfb65d514

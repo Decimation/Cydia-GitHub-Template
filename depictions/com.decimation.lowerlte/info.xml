@@ -1,0 +1,44 @@
+<package>
+	<id>com.decimation.lowerlte</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Lowercase LTE icon for iOS.</description>
+		<description>Enable in Winterboard.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>LTE Icon</description>
+			<image>lowerlte.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/dec1mati0n</url>
+		</link>
+		
+		<link>
+			<name>/r/iosthemes WIP thread</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/3ep32u/wip_lowerlte_lowercase_lte_indicator/</url>
+		</link>
+		
+	</links>
+</package>

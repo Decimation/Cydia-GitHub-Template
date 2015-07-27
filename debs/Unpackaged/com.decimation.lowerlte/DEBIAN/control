@@ -1,0 +1,10 @@
+Package: com.decimation.lowerlte
+Name: LowerLTE
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Lowercase LTE icon for iOS.
+Homepage: www.reddit.com/u/_Decimation
+Depends: winterboard
+Section: Themes (Status Bar)
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

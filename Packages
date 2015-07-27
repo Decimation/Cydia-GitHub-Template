@@ -317,3 +317,19 @@ Description: Givenchy theme for Zeppelin
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.givenchyforzeppelin
 Name: Givenchy for Zeppelin
+
+Package: com.decimation.lowerlte
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//statusbar/com.decimation.lowerlte
+Size: 4484
+MD5sum: e188bdbba183f49e39fff2ef3d551de9
+SHA1: 7cec90521d26e5999b1e529e4b04619bfb65d514
+SHA256: 44a63f956b0831fb8516b93af7f344a68ab085a75d304abafca4a341cb7a8602
+Section: Themes (Status Bar)
+Description: Lowercase LTE icon for iOS.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.lowerlte
+Name: LowerLTE

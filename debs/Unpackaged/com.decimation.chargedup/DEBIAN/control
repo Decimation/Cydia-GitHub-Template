@@ -1,0 +1,10 @@
+Package: com.decimation.chargedup
+Name: Drake Charged Up Tone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Drake "Charged up" ringtone.
+Homepage: www.reddit.com/u/_Decimation
+Depends: com.unlimapps.toneenabler
+Section: Ringtones
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

@@ -1,0 +1,42 @@
+<package>
+	<id>com.decimation.chargedup</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.unlimtones.toneenabler</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Apparently this doesn't show up in Activator's ringtones, but it'll live here for now...</description>
+		<description>Drake "Charged up" ringtone. To use this tone when your battery reaches 99-100%:</description>
+		<description>1. Open Activator</description>
+		<description>2. Go to Anywhere, then tap "More"</description>
+		<description>3. Choose Battery Charges, choose 99%</description>
+		<description>4. Choose your new action, then search</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No Screenshots</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/dec1mati0n</url>
+		</link>
+	</links>
+</package>

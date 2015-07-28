@@ -333,3 +333,19 @@ Description: Lowercase LTE icon for iOS.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.lowerlte
 Name: LowerLTE
+
+Package: com.decimation.chargedup
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.unlimtones.toneenabler
+Filename: debs//statusbar/com.decimation.chargedup.deb
+Size: 143846
+MD5sum: 5f8727cef1a2a0727631b34669c38502
+SHA1: 02aa36dca892911ce83bed640984b45fbbe1afa3
+SHA256: 86f529e9c10acb3ad02b5b96553b99f92f926da0099fb775615bf229a201f86a
+Section: Ringtones
+Description: Drake "Charged up" ringtone.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.chargedup
+Name: Drake Charged Up Tone

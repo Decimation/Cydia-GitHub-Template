@@ -338,7 +338,7 @@ Package: com.decimation.chargedup
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
-Depends: com.unlimtones.toneenabler
+Depends: com.unlimapps.toneenabler
 Filename: debs//statusbar/com.decimation.chargedup.deb
 Size: 143846
 MD5sum: 5f8727cef1a2a0727631b34669c38502

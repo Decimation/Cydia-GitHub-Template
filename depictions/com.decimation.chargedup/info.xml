@@ -9,7 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>com.unlimtones.toneenabler</package>
+		<package>com.unlimapps.toneenabler</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Apparently this doesn't show up in Activator's ringtones, but it'll live here for now...</description>

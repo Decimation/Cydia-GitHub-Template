@@ -355,7 +355,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
-Filename: debs//messages/com.decimation.heartbeat
+Filename: debs//messages/com.decimation.heartbeat.deb
 Size: 4910
 MD5sum: 40c506a3176264947f8ed7aac1849cce
 SHA1: efec2a68c499eb163c0efe0e82b12652f4fb5e4f

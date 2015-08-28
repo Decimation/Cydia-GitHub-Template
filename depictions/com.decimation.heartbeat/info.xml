@@ -1,0 +1,43 @@
+<package>
+	<id>com.decimation.alm</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Heartbeat for Messages.</description>
+		<description>Enable Message Outlines in Messages Customizer.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>With dank memes enabled:</description>
+			<image>heartbeat.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initiral release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/dec1mati0n</url>
+		</link>
+		
+		<link>
+			<name>/r/iosthemes WIP thread</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/3imqqh/wip_heartbeat_messages/</url>
+		</link>
+	</links>
+</package>

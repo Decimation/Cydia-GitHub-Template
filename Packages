@@ -287,15 +287,15 @@ Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.de
 Name: Denihilist Boot Logo
 
 Package: com.decimation.gunnii8forwhatsapp
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: winterboard
 Filename: debs//whatsapp/com.decimation.gunnii8forwhatsapp.deb
-Size: 5438
-MD5sum: 4c963ff4c08fe7bf9f18fa5c1728d1fe
-SHA1: 115e8807b62b15c4f3e6d17bdc5833f6c79253b2
-SHA256: 97c68937acab90dece5b4f40ad0b3003d24eb182bf46b4907f816390eaeb13a7
+Size: 6994
+MD5sum: 4dcd9a8a2202f61f1954e0b110bf7f5c
+SHA1: 509ca2ebe2d0623f4e5682ecf9527d22a9897c6d
+SHA256: 6b7d3d0da8575c78f2d5302021200c02c0c36cef9ba16f6e7fd4c62f7fbfa2df
 Section: Themes (WhatsApp)
 Description: Gunnii-8 Messages theme for WhatsApp.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>

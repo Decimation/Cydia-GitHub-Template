@@ -1,0 +1,10 @@
+Package: com.decimation.sanfranciscokb
+Name: San Francisco Keyboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: San Francisco font for the iOS Keyboard
+Homepage: www.reddit.com/u/_Decimation
+Depends: com.bytafont.bytafont3
+Section: Fonts
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

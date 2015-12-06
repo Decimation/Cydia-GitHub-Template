@@ -365,3 +365,19 @@ Description: Heartbeat for Messages.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.heartbeat
 Name: Heartbeat for Messages
+
+Package: com.decimation.sanfranciscokb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.bytafont.bytafont3
+Filename: debs//fonts/com.decimation.sanfranciscokb.deb
+Size: 9605674
+MD5sum: 218d08e37f3f83db42fbd0ba89cbb0b5
+SHA1: bdf918a71e1ee51141850b0bc60f9cac8aefbed9
+SHA256:5cd5bc369eeebe9b4ad51f8347124ebfe56f45e3a23b8fe09746b171f5415057
+Section: Fonts
+Description: San Francisco font for the iOS keyboard.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.sanfranciscokb
+Name: San Francisco Keyboard

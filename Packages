@@ -383,15 +383,15 @@ Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.sa
 Name: San Francisco Keyboard
 
 Package: com.decimation.roboto2014ios9
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: com.bytafont.bytafont3
 Filename: debs//fonts/com.decimation.roboto2014ios9.deb
-Size: 19409168
-MD5sum: f5d9cada49cca4253e564f799fd556a7
-SHA1: aa1c25fffe8b50fdfcfce27a5cbf3472af5b6f6b
-SHA256: 47c9b0af8401cdba4a0b83c66e92a890b06b67470ae579c5b792e03034593185
+Size: 20212732
+MD5sum: c413d5c84e67b83744929aaa1a51d5ef
+SHA1: 5d7d9831864eb4203007947b78c55abb29379e8c
+SHA256: 324b3393357b7cd5302df7edbe411c8c3645dad3781553d927b893cd728f8f89
 Section: Fonts
 Description: Google's Roboto 2014 for iOS 9.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>

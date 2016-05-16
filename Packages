@@ -397,3 +397,19 @@ Description: Google's Roboto 2014 for iOS 9.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
 Name: Roboto 2014 iOS 9
+
+Package: com.decimation.roboto2014ios9final
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.bytafont.bytafont3
+Filename: debs//fonts/com.decimation.roboto2014ios9final.deb
+Size: 20613162
+MD5sum: 7ecb7e74825be1c5c4ebf597a90f3fd7
+SHA1: a733c48d54fb507a51e68322991b8101129977ac
+SHA256: 580a83be4058f6965c5131e8fbc17d4e9adf338b0bfa8957419ddcf264d3ba66
+Section: Fonts
+Description: Google's Roboto 2014 for iOS 9.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
+Name: Roboto 2014 iOS 9 Final

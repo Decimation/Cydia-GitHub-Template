@@ -1,0 +1,10 @@
+Package: com.decimation.roboto2014ios9final
+Name: Roboto 2014 iOS 9 Final
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Google's Roboto 2014 font for iOS 9.
+Homepage: www.reddit.com/u/_Decimation
+Depends: com.bytafont.bytafont3
+Section: Fonts (Swap Mode)
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>

@@ -1,0 +1,45 @@
+<package>
+	<id>com.decimation.roboto2014ios9final</id>
+	<name>Full Package</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.bytafont.bytafont3</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Google's Roboto 2014 font ported to iOS 9.</description>
+		<description>Ported by Decimation and Daniel King.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No screenshots.</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Added a few more missing glyphs, thanks again to Daniel!</change>
+		<change>Added missing glyphs, thanks to Daniel King!</change>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/dec1mati0n</url>
+		</link>
+		
+		<link>
+			<name>Dbk1ng's Twitter</name>
+			<url>https://twitter.com/dbk1ng</url>
+		</link>
+	</links>
+</package>

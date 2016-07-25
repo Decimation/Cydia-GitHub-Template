@@ -10,3 +10,6 @@ If you're here from my [Reddit tutorial](https://www.reddit.com/r/jailbreak/comm
 
 # Contact
 You can contact me on Reddit at /u/_Decimation or on Twitter at @dec1mati0n.
+
+# Notice
+I no longer jailbreak! I have switched to Android. But don't worry, this repository will stay alive - but know that a majority of packages will have very limited support as I no longer have an iOS version to personally test with.
